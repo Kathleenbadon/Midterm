@@ -6,13 +6,13 @@ body {
   background-repeat: no-repeat;
 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #e74f4f;
+  color:rgb(79, 183, 231);
   margin: 0;
   padding: 0;
 }
 
 .header-fixed {
-  background-color: rgb(154, 49, 252);
+  background-color: rgb(247, 109, 205);
   position: fixed;
   top: 0;
   left: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .footer-fixed {
-  background-color: darkslategray;
+  background-color: rgb(122, 236, 236);
   position: fixed !important;
   bottom: 0;
   left: 0;

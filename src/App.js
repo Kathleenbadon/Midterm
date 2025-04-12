@@ -75,7 +75,7 @@ function App() {
     <>
       <Header className="header-fixed" onSearch={handleSearch} onFilter={handleFilter} />
       <div className="container mt-3">
-        <h3 className="text-center mb-3 "><strong>Country's Data:</strong></h3>
+        <h3 className="text-center mb-3 ">Country's Information:</h3>
 
         {loading ? (
           <p className="text-center">
